@@ -141,3 +141,18 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Private working documents — methodology, vision, specs, audits, internal notes.
+# Kept locally for the author and AI agents; not part of the public OSS repo.
+# These artifacts are the commercial moat (sold separately as templates), not freebies.
+CLAUDE.md
+vision/
+specs/
+plans/
+audits/
+comments/
+thoughts/
+testing/
+docs/methodology/
+docs/internal/
+_ru/
